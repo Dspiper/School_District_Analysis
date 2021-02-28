@@ -8,7 +8,7 @@ Data Sources: [students_complete.csv](Resources/students_complete.csv), [schools
 Software: Jupyter Notebook 6.1.4 
 
 ## Results:
-- The district summary saw a decrease in the average math score (-.1%), % passing math (-.2%), % passing reading (-.1%), and % overall passing (-.3%). Both new and old district summaries are below. 
+- How is the district summary affected? The district summary saw a decrease in the average math score (-.1%), % passing math (-.2%), % passing reading (-.1%), and % overall passing (-.3%). Both new and old district summaries are below. 
 
 ### New District Summary
 ![District_Summary_(New)](Resources/New_District_Summary_DF.png)
@@ -23,7 +23,7 @@ Software: Jupyter Notebook 6.1.4
 ![Per_School_Summary.png](Resources/Per_School_Summary.png)
 
 - How does replacing the ninth-grade scores affect the following:
-  - The only affect replacing the 9th grade scores had on the math and reading scores by grade was that Thomas High School now shows nan for their 9th grade math       and reading scores.  
+  - The only affect replacing the 9th grade scores had on the math and reading scores by grade was that Thomas High School now shows nan for their 9th grade math       and reading scores (see images below).   
   - The scores by school spending were not affected by this change 
   - The scores by school size were not affected by this change
   - The scores by school type were not affected by this change
