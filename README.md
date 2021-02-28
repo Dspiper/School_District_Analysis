@@ -3,6 +3,10 @@
 ## Overview of the school district analysis:
 A discovery was made that the 9th grade class at Thomas High School had altered their reading and math grades. In order to uphold the academic integrity of the school district it was decided that Thomas High School’s math and reading scores will be replaced with NaNs. All other data for Thomas High School and the other schools will remain the same, and the school district analysis will be conducted again with the NaNs in place.
 
+## Resources:
+Data Sources: [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)\
+Software: Jupyter Notebook 6.1.4 
+
 ## Results:
 - The district summary saw a decrease in the average math score (-.1%), % passing math (-.2%), % passing reading (-.1%), and % overall passing (-.3%). Both new and old district summaries are below. 
 
