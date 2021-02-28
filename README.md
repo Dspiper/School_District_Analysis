@@ -10,10 +10,10 @@ Software: Jupyter Notebook 6.1.4
 ## Results:
 - The district summary saw a decrease in the average math score (-.1%), % passing math (-.2%), % passing reading (-.1%), and % overall passing (-.3%). Both new and old district summaries are below. 
 
-#### New District Summary
+### New District Summary
 ![District_Summary_(New)](Resources/New_District_Summary_DF.png)
 
-#### Old District Summary
+### Old District Summary
 ![District_Summary_(Old)](Resources/Old_District_Summary_DF.png)
 
 - How is the school summary affected? The school summary was affected for Thomas High School only. The values for % passing math, % passing reading, and % overall passing was updated to reflect the new values without the 9th grade classes’ scores. 
@@ -28,5 +28,11 @@ Software: Jupyter Notebook 6.1.4
   - The scores by school size were not affected by this change
   - The scores by school type were not affected by this change
 
-## Summary: 
+### Math Scores by Grade 
+ ![Math_Scores_by_Grade.png](Resources/Math_Scores_by_Grade.png)
+ 
+### Reading Scores by Grade 
+![Reading_Scores_by_Grade.png](Resources/Reading_Scores_by_Grade.png)
+ 
+ ## Summary: 
 The first major change in the updated school district analysis is the decrease in the average math score, % passing math, % passing reading, and % overall passing for the entire school district. Since we removed the entire Thomas High School 9th grade classes’ reading and math scores it was to be expected to see a change in the district summary, albeit very minimal. The second major change was the overall passing percent for Thomas High School, which increased from 65% to 90% after the 9th grade classes’ scores were removed. For the third major change, we saw Thomas High School’s math passing percent increase from 66% to 93%. And finally, the last major change was Thomas High School’s reading scores increased from 69% to 97%.   
