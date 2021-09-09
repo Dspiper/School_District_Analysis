@@ -18,12 +18,12 @@ Software: Jupyter Notebook 6.1.4
 
 - How is the school summary affected? The school summary was affected for Thomas High School only. The values for % passing math, % passing reading, and % overall passing was updated to reflect the new values without the 9th grade classes’ scores. 
 
- - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Thomas High School’s performance increased significantly after the scores were replaced. The overall passing percent with the 9th graders’ scores was 65%. After the scores were removed the overall passing percent is 90%, putting Thomas High School as the second highest school in the district by overall passing percent. Thomas High School’s percent passing reading increased from 69% to 97%, and the 3rd highest school in the district by reading passing percent. The percent passing math increased from 66% to 93%, and the 7th highest school in the district by math passing percent.
+ - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Thomas High School’s performance increased significantly after the scores were replaced. The overall passing percent with the 9th graders’ scores was 65%. After the scores were removed the overall passing percent was 90%, putting Thomas High School as the second highest school in the district by overall passing percent. Thomas High School’s percent passing reading increased from 69% to 97%, and the 3rd highest school in the district by reading passing percent. The percent passing math increased from 66% to 93%, and the 7th highest school in the district by math passing percent.
 
 ![Per_School_Summary.png](Resources/Per_School_Summary.png)
 
 - How does replacing the ninth-grade scores affect the following:
-  - The only affect replacing the 9th grade scores had on the math and reading scores by grade was that Thomas High School now shows nan for their 9th grade math       and reading scores (see images below).   
+  - The only effect replacing the 9th grade scores had on the math and reading scores by grade was that Thomas High School now shows nan for their 9th grade math       and reading scores (see images below).   
   - The scores by school spending were not affected by this change 
   - The scores by school size were not affected by this change
   - The scores by school type were not affected by this change
